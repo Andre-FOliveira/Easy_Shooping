@@ -10,8 +10,7 @@ Exercício realizado durante o curso da plataforma Dev Club
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout"></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-site">Site</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -33,7 +32,7 @@ Exercio referente as tecnologias e funções mencionadas durante os modulos de H
 
 ## 🔖 Site
 
-Você pode visualizar a pagina do projeto através [DESSE LINK](andre-foliveira.github.io/Easy_Shooping/).
+Você pode visualizar a pagina do projeto através [DESSE LINK](https://andre-foliveira.github.io/Easy_Shooping/).
 
 
 ---
